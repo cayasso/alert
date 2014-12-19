@@ -1,2 +1,1 @@
-alert
-=====
+alert('YOU ARE HACKED');
